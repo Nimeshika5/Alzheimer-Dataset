@@ -33,6 +33,11 @@ This folder contains both original images from Kaggle and data processed using C
 
 - **train1.zip**: This zip file contains the training data augmented using cGANs.
 
+## Raw Numerical Data
+
+This folder include numberical results for Figure 8 and Figure 9 cited in the paper.
+
+
 ## Usage
 
 Researchers and developers can use this dataset for various purposes, including but not limited to:
