@@ -27,11 +27,11 @@ This folder contains image data from Kaggle. It includes the following zipped fo
 
 #### 2. With GAN
 
-This folder contains both original images from Kaggle and data processed using Generative Adversarial Networks (GANs) for augmentation. It includes the following zipped folders:
+This folder contains both original images from Kaggle and data processed using Conditional Generative Adversarial Networks (cGANs) for augmentation. It includes the following zipped folders:
 
-- **test.zip**: This zip file contains the testing data augmented or enhanced using GANs.
+- **test1.zip**: This zip file contains the testing data augmented using cGANs.
 
-- **train.zip**: This zip file contains the training data augmented or enhanced using GANs.
+- **train1.zip**: This zip file contains the training data augmented using cGANs.
 
 ## Usage
 
