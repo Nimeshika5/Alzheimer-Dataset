@@ -43,4 +43,7 @@ Researchers and developers can use this dataset for various purposes, including 
 ## Citation
 [Dataset on Kaggle](https://www.kaggle.com/datasets/yasserhessein/dataset-alzheimer)
 
+##DOI Link
+
+[![DOI](https://zenodo.org/badge/784069127.svg)](https://zenodo.org/doi/10.5281/zenodo.10947536)
 ---
