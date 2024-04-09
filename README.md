@@ -15,7 +15,7 @@ This dataset comprises MRI scans of individuals categorized into three classes b
 
 3. **Non-Demented**: Individuals in this category do not display significant cognitive impairment or symptoms associated with Alzheimer's disease. They may have normal cognitive function for their age and do not meet the criteria for dementia or Alzheimer's disease diagnosis.
 
-### Folder Structure 
+## Folder Structure 
 
 #### 1. Without GAN
 
