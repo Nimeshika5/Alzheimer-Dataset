@@ -1,23 +1,24 @@
-# Alzheimer-Dataset
-Certainly! You can describe the contents of your folders in the README file like this:
-
 ---
-
-# Project Name
+# Alzheimer's Disease Detection Dataset
 
 ## Description
 
-Brief overview of the project and its purpose.
+This dataset comprises MRI scans of individuals categorized into three classes based on their cognitive status: Mild Demented, Moderate Demented, and Non-Demented. The dataset is sourced from Kaggle and is used for Alzheimer's disease detection research. 
 
-## Dataset
+### Classes
 
-The dataset used in this project is the Alzheimer's disease detection dataset, sourced from Kaggle. It contains MRI scans classified into three classes: Non Demented, Mild Demented, and Moderate Demented.
+1. **Mildly Demented**: Individuals in this category exhibit early indications of cognitive deterioration associated with Alzheimer's disease. Symptoms may include mild memory loss, problem-solving difficulties, and communication challenges. However, these symptoms are typically not severe enough to significantly impair daily functioning.
 
-### Folders
+2. **Moderate Demented**: This category represents individuals at a more advanced stage of Alzheimer's disease, characterized by pronounced cognitive decline and functional impairment. Symptoms may include worsening memory loss, confusion, disorientation, and difficulties with activities of daily living such as dressing and eating. Behavioral changes and increased dependency on others for assistance are common.
+
+3. **Non-Demented**: Individuals in this category do not display significant cognitive impairment or symptoms associated with Alzheimer's disease. They may have normal cognitive function for their age and do not meet the criteria for dementia or Alzheimer's disease diagnosis. Non-demented individuals serve as a reference group for comparison and may include healthy individuals or those with mild cognitive impairment not meeting the criteria for dementia.
+
+
+### Folder Structure 
 
 #### 1. Without GAN
 
-This folder contains data processed without the use of Generative Adversarial Networks (GANs). It includes the following zipped folders:
+This folder contains image data from Kaggle. It includes the following zipped folders:
 
 - **test.zip**: This zip file contains the testing data for the Alzheimer's disease detection task.
 
@@ -25,12 +26,22 @@ This folder contains data processed without the use of Generative Adversarial Ne
 
 #### 2. With GAN
 
-This folder contains data processed using Generative Adversarial Networks (GANs) for augmentation or enhancement. It includes the following zipped folders:
+This folder contains both original images from Kaggle and data processed using Generative Adversarial Networks (GANs) for augmentation. It includes the following zipped folders:
 
 - **test.zip**: This zip file contains the testing data augmented or enhanced using GANs.
 
 - **train.zip**: This zip file contains the training data augmented or enhanced using GANs.
 
+## Usage
+
+Researchers and developers can use this dataset for various purposes, including but not limited to:
+- Alzheimer's disease detection research.
+- Developing machine learning models for classification tasks.
+- Studying the progression of Alzheimer's disease.
+
+## Citation
+
+[Dataset on Kaggle](https://www.kaggle.com/datasets/yasserhessein/dataset-alzheimer)
+
 ---
 
-In the descriptions, it's important to specify the purpose of each folder and the contents of the zipped folders within them. This helps users understand the organization of your dataset and how to access the relevant data for their tasks. Adjust the description as needed based on any additional information about your dataset or processing methods.
