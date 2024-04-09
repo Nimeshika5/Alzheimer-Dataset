@@ -41,11 +41,6 @@ Researchers and developers can use this dataset for various purposes, including 
 - Studying the progression of Alzheimer's disease.
 
 ## Citation
-
-If you use this dataset in your research or project, please consider citing the original source:
-
 [Dataset on Kaggle](https://www.kaggle.com/datasets/yasserhessein/dataset-alzheimer)
 
 ---
-
-This README file provides an overview of the dataset, its classes, contents, potential usage, and a citation for the original dataset source.
