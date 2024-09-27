@@ -46,7 +46,7 @@ Researchers and developers can use this dataset for various purposes, including 
 - Studying the progression of Alzheimer's disease.
 
 ## Citation
-[Dataset on Kaggle](https://www.kaggle.com/datasets/yasserhessein/dataset-alzheimer)
+[Dataset on Kaggle](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
 
 ## License
 The license: Open Database License (ODbL) v1.0
